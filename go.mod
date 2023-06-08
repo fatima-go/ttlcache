@@ -1,4 +1,4 @@
-module fatima-go/ttlcache
+module github.com/fatima-go/ttlcache
 
 go 1.17
 
