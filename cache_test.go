@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"sync"
 
+	. "github.com/fatima-go/ttlcache"
 	"github.com/stretchr/testify/assert"
-	. "throosea.com/ttlcache"
 )
 
 func TestMain(m *testing.M) {
